@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2026-10-09T12:54:22+00:00",
+    "message": "my card not received",
+    "classification": "Query",
+    "agent": "Query Handler Agent",
+    "ticket_id": "142104",
+    "response": "Your support request has been saved as ticket #142104. Current status: Open.",
+    "trace": [
+      "Classifier Agent → Query / support request",
+      "Query Handler Agent → no existing ticket ID supplied",
+      "Support database → created ticket #142104 with status Open"
+    ]
+  },
+  {
+    "timestamp": "2026-10-09T12:54:58+00:00",
+    "message": "142104",
+    "classification": "Query",
+    "agent": "Query Handler Agent",
+    "ticket_id": "421311",
+    "response": "Your support request has been saved as ticket #421311. Current status: Open.",
+    "trace": [
+      "Classifier Agent → Query / support request",
+      "Query Handler Agent → no existing ticket ID supplied",
+      "Support database → created ticket #421311 with status Open"
+    ]
+  }
+]

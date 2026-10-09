@@ -1,0 +1,48 @@
+[
+  {
+    "ticket_id": "650932",
+    "customer_name": "Demo Customer",
+    "summary": "Net banking login issue",
+    "status": "Resolved",
+    "created_at": "2026-09-20T10:00:00+00:00"
+  },
+  {
+    "ticket_id": "721406",
+    "customer_name": "Demo Customer",
+    "summary": "Debit card replacement delay",
+    "status": "In Progress",
+    "created_at": "2026-10-01T12:30:00+00:00"
+  },
+  {
+    "ticket_id": "848638",
+    "customer_name": "nader",
+    "summary": "[Debit/Credit Card] my debit card  not yet received",
+    "details": "my debit card  not yet received",
+    "status": "Open",
+    "created_at": "2026-10-09T12:53:04+00:00"
+  },
+  {
+    "ticket_id": "851311",
+    "customer_name": "nader 2",
+    "summary": "[General Inquiry] my Credit card not working",
+    "details": "my Credit card not working",
+    "status": "Open",
+    "created_at": "2026-10-09T12:53:41+00:00"
+  },
+  {
+    "ticket_id": "142104",
+    "customer_name": "Customer",
+    "summary": "my card not received",
+    "details": "my card not received",
+    "status": "Open",
+    "created_at": "2026-10-09T12:54:22+00:00"
+  },
+  {
+    "ticket_id": "421311",
+    "customer_name": "Customer",
+    "summary": "142104",
+    "details": "142104",
+    "status": "Open",
+    "created_at": "2026-10-09T12:54:58+00:00"
+  }
+]
